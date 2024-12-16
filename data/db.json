@@ -30,5 +30,22 @@
             "price": 199,
             "in_stock": false
         }
+    ],
+    "users": [
+        {
+            "id": 901,
+            "name": "Marta Perez",
+            "in_company": true
+        },
+        {
+            "id": 902,
+            "name": "Marcos Lopez",
+            "in_company": true
+        },
+        {
+            "id": 903,
+            "name": "Luis Marquez",
+            "in_company": false
+        }
     ]
 }
